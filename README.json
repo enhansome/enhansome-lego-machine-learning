@@ -1,0 +1,242 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Parts Classification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nexus [2023.03]",
+          "description": "Open-source sorting machine with CAD designs and code available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T00:00:21Z",
+            "owner": "basicallysource",
+            "repo": "sorter",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrickSortingMachine [2023.08]",
+          "description": ", Blog, Code, LEGO build instructions - A LEGO brick sorting machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-27T15:41:40Z",
+            "owner": "BrickSortingMachine",
+            "repo": "BrickSortingMachine",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Shape Sifter [2019.06]",
+          "description": ", Blog - The Shape Sifter is a Lego sorting machine utilizing a neural network, image processing software, a conveyor belt, and air jets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-03-06T04:31:28Z",
+            "owner": "Spongeloaf",
+            "repo": "the-shape-sifter",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego Automatic Sorting LegoLAS 2.0 [2021.08]",
+          "description": ", Description (in German), CAD - Student project in the Laboratory for Computer Science in Engineering and Computational Mathematics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-23T13:44:20Z",
+            "owner": "LegoAS",
+            "repo": "LegoAS",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Sorting Machines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lego Brick Recognition [2020.03]",
+          "description": "Code for generating synthetic dataset and training a classifier for 15 different parts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-30T08:08:36Z",
+            "owner": "jtheiner",
+            "repo": "LegoBrickClassification",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenBlok [2022.11]",
+          "description": "OpenBlok is an open-source Lego identification and sorting system using AI models developed by blokbot.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-31T22:01:15Z",
+            "owner": "blokbot-io",
+            "repo": "OpenBlok",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego Detector [2019.03]",
+          "description": "Code for training a classifer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-05T09:06:41Z",
+            "owner": "kirill-sidorchuk",
+            "repo": "lego_detector",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Setognize [2024.06]",
+          "description": "Code for a mobile app that can recognize 50 dfferent Lego sets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-12T13:35:06Z",
+            "owner": "Castelvill",
+            "repo": "Setognize",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BrickRegistration [2021.11]",
+          "description": "A tool to generate synthetic 3d scenes with LEGO parts and their segmentation information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-09T09:36:56Z",
+            "owner": "GistNoesis",
+            "repo": "BrickRegistration",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego multi object detection [2021.11]",
+          "description": "Script to generate renders of LEGO parts and corresponding bounding boxes. Uses Python and Blender.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-01T20:34:02Z",
+            "owner": "mantyni",
+            "repo": "Multi-object-detection-lego",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego Rendering Pipeline [2023.06]",
+          "description": "Rendering pipeline for semi-realistic, individual parts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-05T06:18:13Z",
+            "owner": "brianlow",
+            "repo": "lego-rendering",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lego Renderer for ML Projects [2020.01]",
+          "description": "A set of Python scripts/Blender utilities for rendering Lego scenes for use in deep learning/computer vision projects. Includes a basic scene with a tracked camera, scripts for rendering images, normals, masks of Lego combinations, and utilities for recording the positions of special features on different pieces (studs, corners, holes) easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-20T18:32:10Z",
+            "owner": "WHSnyder",
+            "repo": "LegoTrainingRenderer",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrickRenderer [2023.06]",
+          "description": "Render realistic training images of ldraw pieces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-09T13:56:47Z",
+            "owner": "spencerhhubert",
+            "repo": "brick-renderer",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Rendering Parts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generating Sets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Assembling Sets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generating images of LEGO"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3D Reconstruction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Price Prediction"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:29:37.626Z",
+    "original_repository": "360er0/awesome-lego-machine-learning",
+    "original_repository_sha": "2bec504c5bd4198a4ff6df37e3ad0520089fa467",
+    "enhanced_repository": "enhansome/enhansome-lego-machine-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome LEGO Machine Learning with stars"
+  }
+}
