@@ -60,10 +60,10 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ### Datasets
 
+* [B200C LEGO Classification Dataset \[2021.08\]](https://www.kaggle.com/datasets/ronanpickell/b200c-lego-classification-dataset), [Code](https://github.com/korra-pickell/LEGO-Classification-Dataset) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2022-09-03 - Dataset for parts classification. It contains 800k high-quality renders for 200 different parts.
 * [B200 LEGO Detection Dataset \[2024.03\]](https://www.kaggle.com/datasets/ronanpickell/b100-lego-detection-dataset) - Dataset for parts detection. It contains 2k high-quality renders for 200 different parts.
 * [Photos and rendered images of LEGO bricks \[2023.11\]](https://www.nature.com/articles/s41597-023-02682-2) - The paper describes a collection of datasets containing both LEGO brick renders and real photos. The datasets contain around 155,000 photos and nearly 1,500,000 renders.
 * [Video of LEGO bricks on conveyor belt \[2022.01\]](https://mostwiedzy.pl/en/open-research-data-series/video-of-lego-bricks-on-conveyor-belt,202011132226557715481-0/catalog) - The dataset contains videos of LEGO bricks moving on a white conveyor belt to train a classifier for sorting machine.
-* [B200C LEGO Classification Dataset \[2021.08\]](https://www.kaggle.com/datasets/ronanpickell/b200c-lego-classification-dataset), [Code](https://github.com/korra-pickell/LEGO-Classification-Dataset) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2022-09-03 - Dataset for parts classification. It contains 800k high-quality renders for 200 different parts.
 * [LEGO bricks for training classification network \[2021.06\]](https://mostwiedzy.pl/en/open-research-data/lego-bricks-for-training-classification-network,618104539639776-0) - The dataset part classification. It contains images of 447 different parts, both real photos (52k) and renders (567k).
 * [Tagged images with LEGO bricks \[2021.02\]](https://mostwiedzy.pl/en/open-research-data/tagged-images-with-lego-bricks,209111650250426-0) - The dataset for parts detection. It contains 2933 photos and 2908 renders annotated with bounding boxes. It doesn't include information about part IDs.
 * [Lego Brick Sorting \[2018.12\]](https://www.kaggle.com/datasets/pacogarciam3/lego-brick-sorting-image-recognition) - The dataset for parts classification. It contains 4,580 photos of 20 different parts.
@@ -123,9 +123,9 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ### Posts
 
+* [LEGO Stable Diffusion \[2023.01\]](https://github.com/MichWozPol/LEGO_StableDiffusion) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2023-06-07 - Fine-tuned stable diffusion model for generating images in the LEGO style.
 * [The AI Revolution: How Artificial Intelligence Is Impacting the LEGO Community \[2023.11\]](https://bricknerd.com/home/the-ai-revolution-how-artificial-intelligence-is-impacting-the-lego-community-11-7-23) - The post discusses how AI-generated “LEGO” sets are sparking a debate between inspiration and imitation within the AFOL community.
 * [Reimagining LEGO sets \[2023.03\]](https://brickset.com/article/92515/reimagining-lego-sets) - Generating realistic versions of LEGO sets.
-* [LEGO Stable Diffusion \[2023.01\]](https://github.com/MichWozPol/LEGO_StableDiffusion) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2023-06-07 - Fine-tuned stable diffusion model for generating images in the LEGO style.
 * [Generating LEGO Pirates sets and minifigures \[2023.01\]](https://www.eurobricks.com/forum/index.php?/forums/topic/193551-i-fed-an-ai-image-generator-with-lego-pirate-prompts-and-this-is-what-happened-lots-of-images/) - Generating LEGO Pirates sets and minifigures using Stable Diffusion.
 * [Using AI to generate minifigures \[2020.07\]](https://brickset.com/article/52483/using-ai-to-generate-minifigures), [Part 2 \[2020.08\]](https://brickset.com/article/53051/using-ai-to-generate-minifigures-part-2), [Part 3 \[2020.08\]](https://brickset.com/article/63365/using-ai-to-generate-minifigures-part-3) - Using different GANs to generate images of minifigures.
 
@@ -157,4 +157,4 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

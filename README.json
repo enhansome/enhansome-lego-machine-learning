@@ -141,6 +141,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "B200C LEGO Classification Dataset [2021.08]",
+              "description": ", Code - Dataset for parts classification. It contains 800k high-quality renders for 200 different parts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 531734029,
+                "language": "Python",
+                "last_commit": "2022-09-03T16:04:12Z",
+                "owner": "korra-pickell",
+                "repo": "LEGO-Classification-Dataset",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "BrickRegistration [2021.11]",
               "description": "A tool to generate synthetic 3d scenes with LEGO parts and their segmentation information.",
               "children": [],
@@ -221,10 +243,87 @@
         }
       ],
       "title": "Parts Classification"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LEGO Stable Diffusion [2023.01]",
+              "description": "Fine-tuned stable diffusion model for generating images in the LEGO style.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577931047,
+                "language": "Python",
+                "last_commit": "2023-06-07T22:20:12Z",
+                "owner": "MichWozPol",
+                "repo": "LEGO_StableDiffusion",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Posts"
+        }
+      ],
+      "title": "Generating images of LEGO"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lego Learning: Using Machine Learning to Predict the Future Value of Lego Sets [2023.11]",
+              "description": "Using machine learning algorithms to predict future prices of sets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 634683401,
+                "language": "Python",
+                "last_commit": "2025-12-04T17:50:23Z",
+                "owner": "alexracape",
+                "repo": "lego-learner",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code"
+        }
+      ],
+      "title": "Price Prediction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome LEGO",
+          "description": "General list of LEGO resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30380625,
+            "language": null,
+            "last_commit": "2026-06-18T10:13:43Z",
+            "owner": "ad-si",
+            "repo": "awesome-lego",
+            "stars": 428
+          }
+        }
+      ],
+      "title": "Other lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:47:00.738Z",
+    "last_updated": "2026-08-24T14:27:48.184Z",
     "original_repository": "360er0/awesome-lego-machine-learning",
     "original_repository_id": 455185002,
     "original_repository_sha": "2bec504c5bd4198a4ff6df37e3ad0520089fa467",
