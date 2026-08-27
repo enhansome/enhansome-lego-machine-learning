@@ -74,7 +74,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [BrickRegistration \[2021.11\]](https://github.com/GistNoesis/BrickRegistration) ⭐ 122 | 🐛 0 | 🌐 Python | 📅 2022-07-09 - A tool to generate synthetic 3d scenes with LEGO parts and their segmentation information.
 * [Lego multi object detection \[2021.11\]](https://github.com/mantyni/Multi-object-detection-lego) ⭐ 16 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-12-01 - Script to generate renders of LEGO parts and corresponding bounding boxes. Uses Python and Blender.
 * [Lego Rendering Pipeline \[2023.06\]](https://github.com/brianlow/lego-rendering) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-10-05 - Rendering pipeline for semi-realistic, individual parts.
-* [Lego Renderer for ML Projects \[2020.01\]](https://github.com/WHSnyder/LegoTrainingRenderer) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-01-20 - A set of Python scripts/Blender utilities for rendering Lego scenes for use in deep learning/computer vision projects. Includes a basic scene with a tracked camera, scripts for rendering images, normals, masks of Lego combinations, and utilities for recording the positions of special features on different pieces (studs, corners, holes) easily.
+* [Lego Renderer for ML Projects \[2020.01\]](https://github.com/WHSnyder/LegoTrainingRenderer) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-01-20 - A set of Python scripts/Blender utilities for rendering Lego scenes for use in deep learning/computer vision projects. Includes a basic scene with a tracked camera, scripts for rendering images, normals, masks of Lego combinations, and utilities for recording the positions of special features on different pieces (studs, corners, holes) easily.
 * [BrickRenderer \[2023.06\]](https://github.com/spencerhhubert/brick-renderer) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-07-09 -  Render realistic training images of ldraw pieces.
 * [Rendering LDraw Parts Images for Rebrickable \[2018.10\]](https://bricksafe.com/files/Simon/guide/guide.html) - Comprehensive guide describing how Rebrickable rendered their images.
 
@@ -157,4 +157,4 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

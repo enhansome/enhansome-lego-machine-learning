@@ -218,7 +218,7 @@
                 "last_commit": "2022-01-20T18:32:10Z",
                 "owner": "WHSnyder",
                 "repo": "LegoTrainingRenderer",
-                "stars": 13
+                "stars": 14
               }
             },
             {
@@ -323,9 +323,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:58:34.056Z",
-    "original_repository": "360er0/awesome-lego-machine-learning",
-    "original_repository_id": 455185002,
+    "last_updated": "2026-08-27T11:49:54.150Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 455185002,
+      "language": null,
+      "last_commit": "2025-04-06T08:59:19Z",
+      "owner": "360er0",
+      "repo": "awesome-lego-machine-learning",
+      "stars": 527
+    },
     "original_repository_sha": "2bec504c5bd4198a4ff6df37e3ad0520089fa467",
     "enhanced_repository": "enhansome/enhansome-lego-machine-learning",
     "enhanced_repository_description": null,
