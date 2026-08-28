@@ -18,7 +18,8 @@
                 "owner": "basicallysource",
                 "repo": "sorter",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "BrickSortingMachine",
                 "repo": "BrickSortingMachine",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "Spongeloaf",
                 "repo": "the-shape-sifter",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "LegoAS",
                 "repo": "LegoAS",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             }
           ],
           "description": null,
@@ -85,7 +89,8 @@
                 "owner": "jtheiner",
                 "repo": "LegoBrickClassification",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "blokbot-io",
                 "repo": "OpenBlok",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "kirill-sidorchuk",
                 "repo": "lego_detector",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "Castelvill",
                 "repo": "Setognize",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "korra-pickell",
                 "repo": "LEGO-Classification-Dataset",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             }
           ],
           "description": null,
@@ -174,7 +183,8 @@
                 "owner": "GistNoesis",
                 "repo": "BrickRegistration",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "mantyni",
                 "repo": "Multi-object-detection-lego",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "brianlow",
                 "repo": "lego-rendering",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "WHSnyder",
                 "repo": "LegoTrainingRenderer",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "spencerhhubert",
                 "repo": "brick-renderer",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             }
           ],
           "description": null,
@@ -262,7 +276,8 @@
                 "owner": "MichWozPol",
                 "repo": "LEGO_StableDiffusion",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             }
           ],
           "description": null,
@@ -290,7 +305,8 @@
                 "owner": "alexracape",
                 "repo": "lego-learner",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:35:58.326Z"
             }
           ],
           "description": null,
@@ -316,14 +332,15 @@
             "owner": "ad-si",
             "repo": "awesome-lego",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T23:35:58.326Z"
         }
       ],
       "title": "Other lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:50:58.161Z",
+    "last_updated": "2026-08-28T23:35:58.326Z",
     "original_repository_info": {
       "archived": false,
       "id": 455185002,
