@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A LEGO® Sorting Machine",
+                "homepage": "https://basically.website/sorter-v1",
                 "id": 346012940,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-18T00:00:21Z",
+                "open_issues": 9,
                 "owner": "basicallysource",
                 "repo": "sorter",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "lego",
+                  "machine-learning",
+                  "neural-networks",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -28,12 +38,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BrickSortingMachine - A LEGO® sorting machine software stack",
+                "homepage": "http://bricksortingmachine.com",
                 "id": 744153420,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-27T15:41:40Z",
+                "open_issues": 3,
                 "owner": "BrickSortingMachine",
                 "repo": "BrickSortingMachine",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "lego-sorting-machine"
+                ]
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -44,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Shape Sifter is a lego sorting machine utilizing a neural network, image processing software, a conveyor belt, and air jets.",
+                "homepage": "https://mt_pages.silvrback.com",
                 "id": 176318359,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-03-06T04:31:28Z",
+                "open_issues": 10,
                 "owner": "Spongeloaf",
                 "repo": "the-shape-sifter",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -60,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "In diesem Repo sammeln wir nach und nach alle relevanten Informationen zum Bau der Legosortiermaschine.",
+                "homepage": null,
                 "id": 349350142,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-08-23T13:44:20Z",
+                "open_issues": 1,
                 "owner": "LegoAS",
                 "repo": "LegoAS",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             }
@@ -83,12 +110,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository to identify Lego bricks automatically only using images",
+                "homepage": null,
                 "id": 149310840,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-30T08:08:36Z",
+                "open_issues": 2,
                 "owner": "jtheiner",
                 "repo": "LegoBrickClassification",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "dataset",
+                  "image-classification",
+                  "lego",
+                  "synthetic-dataset-generation",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -99,12 +137,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lego identification and sorting system using artificial intelligence. ",
+                "homepage": "https://blokbot.io",
                 "id": 529663561,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-31T22:01:15Z",
+                "open_issues": 4,
                 "owner": "blokbot-io",
                 "repo": "OpenBlok",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "automation",
+                  "cnn-classification",
+                  "lego",
+                  "lego-block",
+                  "neural-network",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -115,12 +167,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lego parts classifier using deep neural networks",
+                "homepage": null,
                 "id": 107015101,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-05T09:06:41Z",
+                "open_issues": 1,
                 "owner": "kirill-sidorchuk",
                 "repo": "lego_detector",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "classification",
+                  "computer",
+                  "convolutional",
+                  "deep",
+                  "learning",
+                  "lego",
+                  "network",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -131,12 +197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 821081703,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-12T13:35:06Z",
+                "open_issues": 0,
                 "owner": "Castelvill",
                 "repo": "Setognize",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             }
@@ -154,12 +225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📊 Machine Generated LEGO Brick Classification Data Set",
+                "homepage": null,
                 "id": 531734029,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-03T16:04:12Z",
+                "open_issues": 0,
                 "owner": "korra-pickell",
                 "repo": "LEGO-Classification-Dataset",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             }
@@ -177,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 383126915,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-09T09:36:56Z",
+                "open_issues": 0,
                 "owner": "GistNoesis",
                 "repo": "BrickRegistration",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -193,12 +274,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi object detection of lego bricks in a dataset generated using using blender. ",
+                "homepage": null,
                 "id": 427762802,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-12-01T20:34:02Z",
+                "open_issues": 3,
                 "owner": "mantyni",
                 "repo": "Multi-object-detection-lego",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "blender",
+                  "blender-python",
+                  "multi-object-tracking",
+                  "object-detection",
+                  "ssd",
+                  "synthetic-dataset-generation",
+                  "yolov5"
+                ]
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -209,12 +303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 635156037,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-05T06:18:13Z",
+                "open_issues": 2,
                 "owner": "brianlow",
                 "repo": "lego-rendering",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -225,12 +324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python scripts for generating images of Lego structures (masks, normals, Blender Cycles renders) for training ML models.",
+                "homepage": null,
                 "id": 221569090,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-01-20T18:32:10Z",
+                "open_issues": 0,
                 "owner": "WHSnyder",
                 "repo": "LegoTrainingRenderer",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             },
@@ -241,12 +345,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "render realistic training images of ldraw pieces",
+                "homepage": null,
                 "id": 443631500,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-09T13:56:47Z",
+                "open_issues": 0,
                 "owner": "spencerhhubert",
                 "repo": "brick-renderer",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "blender",
+                  "ldraw",
+                  "lego",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             }
@@ -270,12 +384,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The project aim was to fine-tune the stable diffusion model in order to generate images in the LEGO style based on the prompt.",
+                "homepage": null,
                 "id": 577931047,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-07T22:20:12Z",
+                "open_issues": 0,
                 "owner": "MichWozPol",
                 "repo": "LEGO_StableDiffusion",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "fine-tuning",
+                  "image-generation",
+                  "machine-learning",
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             }
@@ -299,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using machine learning and principles from finance to trade lego sets",
+                "homepage": null,
                 "id": 634683401,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-04T17:50:23Z",
+                "open_issues": 0,
                 "owner": "alexracape",
                 "repo": "lego-learner",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
             }
@@ -326,12 +455,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome LEGO resources",
+            "homepage": null,
             "id": 30380625,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-18T10:13:43Z",
+            "open_issues": 0,
             "owner": "ad-si",
             "repo": "awesome-lego",
-            "stars": 428
+            "stars": 428,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ldraw",
+              "lego",
+              "lego-cad"
+            ]
           },
           "first_seen": "2026-08-28T23:35:58.326Z"
         }
@@ -340,15 +480,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:58.326Z",
+    "last_updated": "2026-08-29T04:41:29.331Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources dedicated to Machine Learning applications to LEGO bricks",
+      "homepage": null,
       "id": 455185002,
       "language": null,
+      "license": null,
       "last_commit": "2025-04-06T08:59:19Z",
+      "open_issues": 1,
       "owner": "360er0",
       "repo": "awesome-lego-machine-learning",
-      "stars": 527
+      "stars": 527,
+      "topics": [
+        "awesome-list",
+        "lego",
+        "machine-learning",
+        "sorting-machine"
+      ]
     },
     "original_repository_sha": "2bec504c5bd4198a4ff6df37e3ad0520089fa467",
     "enhanced_repository": "enhansome/enhansome-lego-machine-learning",
