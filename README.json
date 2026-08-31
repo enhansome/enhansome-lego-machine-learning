@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "basicallysource",
                 "repo": "sorter",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "lego",
                   "machine-learning",
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:07:28.590Z",
+    "last_updated": "2026-08-31T20:14:21.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Machine Learning applications to LEGO bricks",

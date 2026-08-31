@@ -19,7 +19,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ### Sorting Machines
 
-* [Nexus \[2023.03\]](https://github.com/spencerhhubert/nexus) ⭐ 133 | 🐛 9 | 🌐 Python | 📅 2026-01-18 - Open-source sorting machine with CAD designs and code available.
+* [Nexus \[2023.03\]](https://github.com/spencerhhubert/nexus) ⭐ 134 | 🐛 9 | 🌐 Python | 📅 2026-01-18 - Open-source sorting machine with CAD designs and code available.
 * [BrickSortingMachine \[2023.08\]](https://www.youtube.com/@BrickSortingMachine), [Blog](https://bricksortingmachine.com), [Code](https://github.com/BrickSortingMachine/BrickSortingMachine-sorter) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2025-09-27, [LEGO build instructions](https://github.com/BrickSortingMachine) - A LEGO brick sorting machine.
 * [The Shape Sifter \[2019.06\]](https://github.com/Spongeloaf/the-shape-sifter) ⭐ 9 | 🐛 10 | 🌐 C++ | 📅 2023-03-06, [Blog](https://mt_pages.silvrback.com/) - The Shape Sifter is a Lego sorting machine utilizing a neural network, image processing software, a conveyor belt, and air jets.
 * [Lego Automatic Sorting LegoLAS 2.0 \[2021.08\]](https://www.youtube.com/watch?v=sCfN5LrUlKc), [Description (in German)](https://github.com/LegoAS/LegoAS) ⭐ 5 | 🐛 1 | 📅 2021-08-23, [CAD](https://cad.onshape.com/documents/987d7bcb5ba09db685ee5959/w/9b6ee89cc72c5f3be05c2815/e/2b4e90a536956ffc8c740721) - Student project in the Laboratory for Computer Science in Engineering and Computational Mathematics.
@@ -157,4 +157,4 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
