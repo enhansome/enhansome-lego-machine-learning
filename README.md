@@ -19,8 +19,8 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ### Sorting Machines
 
-* [Nexus \[2023.03\]](https://github.com/spencerhhubert/nexus) ⭐ 135 | 🐛 9 | 🌐 Python | 📅 2026-01-18 - Open-source sorting machine with CAD designs and code available.
-* [BrickSortingMachine \[2023.08\]](https://www.youtube.com/@BrickSortingMachine), [Blog](https://bricksortingmachine.com), [Code](https://github.com/BrickSortingMachine/BrickSortingMachine-sorter) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2025-09-27, [LEGO build instructions](https://github.com/BrickSortingMachine) - A LEGO brick sorting machine.
+* [Nexus \[2023.03\]](https://github.com/spencerhhubert/nexus) ⭐ 136 | 🐛 9 | 🌐 Python | 📅 2026-01-18 - Open-source sorting machine with CAD designs and code available.
+* [BrickSortingMachine \[2023.08\]](https://www.youtube.com/@BrickSortingMachine), [Blog](https://bricksortingmachine.com), [Code](https://github.com/BrickSortingMachine/BrickSortingMachine-sorter) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2025-09-27, [LEGO build instructions](https://github.com/BrickSortingMachine) - A LEGO brick sorting machine.
 * [The Shape Sifter \[2019.06\]](https://github.com/Spongeloaf/the-shape-sifter) ⭐ 9 | 🐛 10 | 🌐 C++ | 📅 2023-03-06, [Blog](https://mt_pages.silvrback.com/) - The Shape Sifter is a Lego sorting machine utilizing a neural network, image processing software, a conveyor belt, and air jets.
 * [Lego Automatic Sorting LegoLAS 2.0 \[2021.08\]](https://www.youtube.com/watch?v=sCfN5LrUlKc), [Description (in German)](https://github.com/LegoAS/LegoAS) ⭐ 5 | 🐛 1 | 📅 2021-08-23, [CAD](https://cad.onshape.com/documents/987d7bcb5ba09db685ee5959/w/9b6ee89cc72c5f3be05c2815/e/2b4e90a536956ffc8c740721) - Student project in the Laboratory for Computer Science in Engineering and Computational Mathematics.
 * [DIY LEGO Sorting Machine Backgrounds on design choices \[2023.12\]](https://bricksortingmachine.com/diy-lego-sorting-machine) - The article looks into the details and individual components of our specific sorting machine, explaining the rationale behind various design decisions
@@ -45,7 +45,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 ### Code
 
 * [Lego Brick Recognition \[2020.03\]](https://github.com/jtheiner/LegoBrickClassification) ⭐ 115 | 🐛 2 | 🌐 Python | 📅 2021-04-30 - Code for generating synthetic dataset and training a classifier for 15 different parts.
-* [OpenBlok \[2022.11\]](https://github.com/blokbot-io/OpenBlok) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2023-03-31 - OpenBlok is an open-source Lego identification and sorting system using AI models developed by blokbot.io
+* [OpenBlok \[2022.11\]](https://github.com/blokbot-io/OpenBlok) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2023-03-31 - OpenBlok is an open-source Lego identification and sorting system using AI models developed by blokbot.io
 * [Lego Detector \[2019.03\]](https://github.com/kirill-sidorchuk/lego_detector) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2019-03-05 - Code for training a classifer.
 * [Setognize \[2024.06\]](https://github.com/Castelvill/Setognize) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-12 - Code for a mobile app that can recognize 50 dfferent Lego sets.
 * [LegoSorter \[2023.09\]](https://github.com/LegoSorter) - Code for a mobile app that can recognize and count Lego bricks. It includes scripts for rendering the dataset, training the model, and the backend for the app.
@@ -157,4 +157,4 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
