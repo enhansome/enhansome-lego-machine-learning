@@ -308,7 +308,7 @@
                 "id": 635156037,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2025-10-05T06:18:13Z",
+                "last_commit": "2026-09-28T06:13:55Z",
                 "open_issues": 2,
                 "owner": "brianlow",
                 "repo": "lego-rendering",
@@ -464,7 +464,7 @@
             "open_issues": 0,
             "owner": "ad-si",
             "repo": "awesome-lego",
-            "stars": 433,
+            "stars": 434,
             "topics": [
               "awesome",
               "awesome-list",
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:33:38.098Z",
+    "last_updated": "2026-09-28T20:38:44.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Machine Learning applications to LEGO bricks",
@@ -492,7 +492,7 @@
       "open_issues": 1,
       "owner": "360er0",
       "repo": "awesome-lego-machine-learning",
-      "stars": 533,
+      "stars": 534,
       "topics": [
         "awesome-list",
         "lego",
