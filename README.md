@@ -153,8 +153,8 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ## Other lists
 
-* [Awesome LEGO](https://github.com/ad-si/awesome-lego) ⭐ 436 | 🐛 0 | 📅 2026-10-16 - General list of LEGO resources.
+* [Awesome LEGO](https://github.com/ad-si/awesome-lego) ⭐ 437 | 🐛 0 | 📅 2026-10-16 - General list of LEGO resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
