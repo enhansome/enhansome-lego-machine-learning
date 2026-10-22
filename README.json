@@ -308,7 +308,7 @@
                 "id": 635156037,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-28T06:13:55Z",
+                "last_commit": "2026-10-22T05:35:05Z",
                 "open_issues": 2,
                 "owner": "brianlow",
                 "repo": "lego-rendering",
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:47:39.800Z",
+    "last_updated": "2026-10-22T18:40:41.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Machine Learning applications to LEGO bricks",
