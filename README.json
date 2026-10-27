@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "basicallysource",
                 "repo": "sorter",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "lego",
                   "machine-learning",
@@ -146,7 +146,7 @@
                 "open_issues": 4,
                 "owner": "blokbot-io",
                 "repo": "OpenBlok",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "korra-pickell",
                 "repo": "LEGO-Classification-Dataset",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:58.326Z"
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:02:16.905Z",
+    "last_updated": "2026-10-27T19:31:07.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Machine Learning applications to LEGO bricks",
@@ -492,7 +492,7 @@
       "open_issues": 1,
       "owner": "360er0",
       "repo": "awesome-lego-machine-learning",
-      "stars": 532,
+      "stars": 533,
       "topics": [
         "awesome-list",
         "lego",
