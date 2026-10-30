@@ -119,7 +119,7 @@
                 "open_issues": 2,
                 "owner": "jtheiner",
                 "repo": "LegoBrickClassification",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "dataset",
                   "image-classification",
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:44:02.883Z",
+    "last_updated": "2026-10-30T19:33:12.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Machine Learning applications to LEGO bricks",

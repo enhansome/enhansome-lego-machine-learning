@@ -44,7 +44,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ### Code
 
-* [Lego Brick Recognition \[2020.03\]](https://github.com/jtheiner/LegoBrickClassification) ⭐ 115 | 🐛 2 | 🌐 Python | 📅 2021-04-30 - Code for generating synthetic dataset and training a classifier for 15 different parts.
+* [Lego Brick Recognition \[2020.03\]](https://github.com/jtheiner/LegoBrickClassification) ⭐ 116 | 🐛 2 | 🌐 Python | 📅 2021-04-30 - Code for generating synthetic dataset and training a classifier for 15 different parts.
 * [OpenBlok \[2022.11\]](https://github.com/blokbot-io/OpenBlok) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2023-03-31 - OpenBlok is an open-source Lego identification and sorting system using AI models developed by blokbot.io
 * [Lego Detector \[2019.03\]](https://github.com/kirill-sidorchuk/lego_detector) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2019-03-05 - Code for training a classifer.
 * [Setognize \[2024.06\]](https://github.com/Castelvill/Setognize) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-12 - Code for a mobile app that can recognize 50 dfferent Lego sets.
@@ -157,4 +157,4 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
