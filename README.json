@@ -47,7 +47,7 @@
                 "open_issues": 3,
                 "owner": "BrickSortingMachine",
                 "repo": "BrickSortingMachine",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "lego-sorting-machine"
                 ]
@@ -464,7 +464,7 @@
             "open_issues": 0,
             "owner": "ad-si",
             "repo": "awesome-lego",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "awesome",
               "awesome-list",
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:29:13.897Z",
+    "last_updated": "2026-11-10T20:55:57.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Machine Learning applications to LEGO bricks",

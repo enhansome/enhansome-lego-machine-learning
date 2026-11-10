@@ -20,7 +20,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 ### Sorting Machines
 
 * [Nexus \[2023.03\]](https://github.com/spencerhhubert/nexus) ⭐ 146 | 🐛 9 | 🌐 Python | 📅 2026-01-18 - Open-source sorting machine with CAD designs and code available.
-* [BrickSortingMachine \[2023.08\]](https://www.youtube.com/@BrickSortingMachine), [Blog](https://bricksortingmachine.com), [Code](https://github.com/BrickSortingMachine/BrickSortingMachine-sorter) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2025-09-27, [LEGO build instructions](https://github.com/BrickSortingMachine) - A LEGO brick sorting machine.
+* [BrickSortingMachine \[2023.08\]](https://www.youtube.com/@BrickSortingMachine), [Blog](https://bricksortingmachine.com), [Code](https://github.com/BrickSortingMachine/BrickSortingMachine-sorter) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2025-09-27, [LEGO build instructions](https://github.com/BrickSortingMachine) - A LEGO brick sorting machine.
 * [The Shape Sifter \[2019.06\]](https://github.com/Spongeloaf/the-shape-sifter) ⭐ 9 | 🐛 10 | 🌐 C++ | 📅 2023-03-06, [Blog](https://mt_pages.silvrback.com/) - The Shape Sifter is a Lego sorting machine utilizing a neural network, image processing software, a conveyor belt, and air jets.
 * [Lego Automatic Sorting LegoLAS 2.0 \[2021.08\]](https://www.youtube.com/watch?v=sCfN5LrUlKc), [Description (in German)](https://github.com/LegoAS/LegoAS) ⭐ 5 | 🐛 1 | 📅 2021-08-23, [CAD](https://cad.onshape.com/documents/987d7bcb5ba09db685ee5959/w/9b6ee89cc72c5f3be05c2815/e/2b4e90a536956ffc8c740721) - Student project in the Laboratory for Computer Science in Engineering and Computational Mathematics.
 * [DIY LEGO Sorting Machine Backgrounds on design choices \[2023.12\]](https://bricksortingmachine.com/diy-lego-sorting-machine) - The article looks into the details and individual components of our specific sorting machine, explaining the rationale behind various design decisions
@@ -153,8 +153,8 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ## Other lists
 
-* [Awesome LEGO](https://github.com/ad-si/awesome-lego) ⭐ 439 | 🐛 0 | 📅 2026-11-02 - General list of LEGO resources.
+* [Awesome LEGO](https://github.com/ad-si/awesome-lego) ⭐ 440 | 🐛 0 | 📅 2026-11-02 - General list of LEGO resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
