@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:27:10.564Z",
+    "last_updated": "2026-11-17T22:30:57.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Machine Learning applications to LEGO bricks",
@@ -492,7 +492,7 @@
       "open_issues": 1,
       "owner": "360er0",
       "repo": "awesome-lego-machine-learning",
-      "stars": 534,
+      "stars": 535,
       "topics": [
         "awesome-list",
         "lego",
